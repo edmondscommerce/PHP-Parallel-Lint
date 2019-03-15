@@ -1,3 +1,6 @@
+# This is fork!
+Please see https://github.com/JakubOnderka/PHP-Parallel-Lint
+
 # PHP Parallel Lint
 
 This tool checks syntax of PHP files faster than serial check with a fancier output.
@@ -8,7 +11,7 @@ Running parallel jobs in PHP is inspired by Nette framework tests.
 
 Just run the following command to install it:
 
-    composer require --dev jakub-onderka/php-parallel-lint
+    composer require --dev edmondscommerce/php-parallel-lint
 
 For colored output also install the suggested package `jakub-onderka/php-console-highlighter`:
 
