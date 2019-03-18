@@ -1,0 +1,1 @@
+pathsToIgnore=tests/examples

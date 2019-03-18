@@ -1,4 +1,6 @@
 .idea
 /vendor
 composer.lock
-bin
+bin/*
+!bin/parallel-lint
+var

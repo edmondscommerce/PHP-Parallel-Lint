@@ -1,4 +1,4 @@
-<?php
+git statu<?php
 
 namespace JakubOnderka\PhpParallelLint;
 
