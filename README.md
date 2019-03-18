@@ -1,5 +1,8 @@
 # This is fork!
+
 Please see https://github.com/JakubOnderka/PHP-Parallel-Lint
+
+--------------
 
 # PHP Parallel Lint
 
